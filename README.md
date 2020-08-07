@@ -1,4 +1,9 @@
+## Site with API https://www.breakingbadapi.com 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Also use Axios
+
+![Alt text](https://github.com/Escalion86/BreakingBad-Site/blob/master/screenshot.png?raw=true "Screenshot")
 
 ## Available Scripts
 
